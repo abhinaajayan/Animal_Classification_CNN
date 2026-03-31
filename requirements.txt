@@ -1,0 +1,5 @@
+Flask
+TensorFlow/Keras
+OpenCV (cv2)
+NumPy
+Werkzeug
