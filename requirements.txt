@@ -1,5 +1,5 @@
 Flask
-TensorFlow/Keras
-OpenCV (cv2)
-NumPy
+tensorflow
+opencv-python
+numpy
 Werkzeug
